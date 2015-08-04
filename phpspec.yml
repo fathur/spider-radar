@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Matagaruda
+        psr4_prefix: Matagaruda
+        src_path: app

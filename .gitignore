@@ -1,4 +1,13 @@
 /bootstrap/compiled.php
 .env.*.php
 .env.php
+/vendor
+/node_modules
+Homestead.yaml
 .env
+
+.phpstorm.meta.php
+_ide_helper.php
+_ide_helper_models.php
+.idea/
+composer.lock
