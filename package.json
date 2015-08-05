@@ -1,0 +1,38 @@
+{
+  "name": "spider-radar",
+  "version": "1.0.0",
+  "description": "Github Pages of Spider Radar",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.4",
+    "gulp-watch": "^4.3.4",
+    "gulp-jade": "^1.1.0"
+  },
+  "devDependencies": {
+    "gulp-sass": "^2.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fathur/spider-radar.git"
+  },
+  "keywords": [
+    "ids",
+    "snort",
+    "spider",
+    "radar",
+    "hacker",
+    "attacker",
+    "network",
+    "intrusion"
+  ],
+  "author": "@fathur",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/fathur/spider-radar/issues"
+  },
+  "homepage": "https://github.com/fathur/spider-radar#readme"
+}
